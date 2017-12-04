@@ -74,14 +74,3 @@ for k in range(K):
     err_rate[k]=count/np.size(t_pred)
     
 print("Mean error rate: {} and std deviation:{} ".format(np.mean(err_rate),np.std(err_rate)))   
-
-
-
-
-            
-        
-        
-        
-        
-    
-        
